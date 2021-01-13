@@ -1,0 +1,18 @@
+/* nav {
+    flex: auto;
+    flex-wrap: wrap;   
+} */
+
+ul {
+    list-style: none;
+    text-align: right;
+    padding-right: 1em;
+}
+
+li {
+    display: inline-block;
+}
+
+h1 {
+    font-family: sans-serif;
+}
