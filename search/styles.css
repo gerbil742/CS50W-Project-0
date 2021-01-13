@@ -23,13 +23,14 @@ h1 {
 }
 
 .searchBar {
-    width: 30%;
+    width: 40%;
     border-radius: 40px;
 }
 
 form {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
+    text-align: center;
+}
+
+.button {
+    background: cadetblue;
 }
