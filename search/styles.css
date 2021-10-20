@@ -34,3 +34,9 @@ form {
 .button {
     background: cadetblue;
 }
+
+.link {
+    text-align: right; 
+    padding-right: 1em;
+    padding-top: 0.5em;
+}
